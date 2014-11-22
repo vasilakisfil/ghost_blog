@@ -301,8 +301,8 @@ margin on the iframe, cause it breaks stuff. */
    					3. General - The main styles for the the theme 
    ========================================================================== */
   
-.site-head {height: 500px;}
-#site-head {height: 300px;}
+.site-head {height: 200px;}
+#site-head {height: 200px;}
 
 .site-head, #site-head {
 	position: relative;
@@ -710,8 +710,8 @@ margin on the iframe, cause it breaks stuff. */
 
 .post-2 {
 	background: #fff;
-    margin-bottom: 5rem;
-    height: 300px;
+    margin-bottom: 1rem;
+    height: 50px;
 }
 
 .post-2:before {
