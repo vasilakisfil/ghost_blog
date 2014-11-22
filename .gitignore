@@ -13,12 +13,4 @@ core/*
 # ---- Theme files -----
 content/*
 !/content/
-
-content/data/*
-!/content/data/
-!/content/data/*
-
-content/themes/*
-!/content/themes/
-!/content/themes/casper/
-!/content/themes/typesome/
+!/content/*
