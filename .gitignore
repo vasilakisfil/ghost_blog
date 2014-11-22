@@ -1,0 +1,23 @@
+# Ignore everything first:
+/*
+
+# Then un-ignore the following:
+!.gitignore
+
+# --- Ghost core server index.js file ---
+# --- Only needed if you edit this file ---
+core/*
+!/core/
+
+# ---- Theme files -----
+content/*
+!/content/
+
+content/data/*
+!/content/data/
+!/content/data/*
+
+content/themes/*
+!/content/themes/
+!/content/themes/casper/
+!/content/themes/typesome/
