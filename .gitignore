@@ -14,3 +14,7 @@ core/*
 content/*
 !/content/
 !/content/*
+content/data/README.md
+content/images/README.md
+content/apps/README.md
+content/themes/casper
